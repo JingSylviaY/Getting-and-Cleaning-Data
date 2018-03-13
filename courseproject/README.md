@@ -1,10 +1,6 @@
 # Getting and Cleaning Data Course Project
 ---
-in this project, you can find: 
-'README.txt'
-'codebook'that modifies and updates the available codebooks with the data to indicate all the variables and summaries  calculated, along with units, and any other relevant information.
-'run.analysis.R'
-'tidy_Data.txt'
+
 
 the R scrip, the analysis of the code in run.analysis.R:
 1. download the dataset into your computer, unzip the file
