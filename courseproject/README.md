@@ -8,7 +8,7 @@ the R scrip, the analysis of the code in run.analysis.R:
 3. upload the x_trian, y_trian, x_test, y_test and activity_labels dataset into R
 4. Extracts only the measurements on the mean and standard deviation for each measurement.from the features_txt file, we can see the which columns we need to read( mean and std records only) 
 
-5.Loads the activity and subject data for each dataset, and merges those columns with the dataset
+5. Loads the activity and subject data for each dataset, and merges those columns with the dataset
 
 6. Uses descriptive activity names to name the activities in the data set
 
@@ -16,7 +16,7 @@ the R scrip, the analysis of the code in run.analysis.R:
 
 8. Appropriately labels the data set with descriptive variable names 
 
-9.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.---output is the tidy_Data.txt file.
+9. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.---output is the tidy_Data.txt file.
 
 
 
